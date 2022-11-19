@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JhelkyWalliya
 - 👀 I’m interested in Information Technologies
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning php and js
+- 💞️ I’m looking to collaborate on SaCodeComution Papua
 - 📫 How to reach me ...
 
 <!---
