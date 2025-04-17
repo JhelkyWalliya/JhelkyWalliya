@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhelky Walliya</h1>
 <h3 align="center">A passionate Web developer from West Papua</h3>
 
-- 🔭 I’m currently working on **"Building a Website" & Developing a Website ✅**
+- 🔭 I’m currently working on ** "Website and Web Application Development" ✅**
 
 - 🌱 I’m currently learning **"JavaScript Frameworks & PHP Frameworks"✅**
 
